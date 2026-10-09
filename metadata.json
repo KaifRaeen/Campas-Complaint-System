@@ -1,0 +1,6 @@
+{
+  "name": "CampusVoice",
+  "description": "Your Voice. Our Responsibility. A modern, transparent college complaint management web application for students and administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
